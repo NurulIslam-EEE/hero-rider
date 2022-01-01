@@ -1,0 +1,37 @@
+[
+    {
+"title":"Food Rescue",
+"description":"Volunteer in Porto to fight food waste and feed homeless and families in need. Discover Portugal, travel like a local and create a REAL positive social impact.",
+"image":"",
+"date":" 10-01-22",
+"place":" Agrabad Chittagong"
+    },
+    {
+        "title":"Community Assistant",
+        "description":"The Missionvale Care Centre focuses on people in need in Missionvale township, and offers a variety of services such as education, healthcare and more",
+        "image":"",
+        "date":" 12-01-22",
+        "place":" CRB, Chittagong"
+    },
+    {
+        "title":"Support for Disadvantaged Community",
+        "description":"We believe that serving others is one of the most worthwhile human endeavors. The main objective of this program is to provide valuable support for community groups",
+        "image":"",
+        "date":" 17-01-22",
+        "place":" City gate, Chittagong"
+    },
+    {
+        "title":"Social Welfare Worker",
+        "description":"Provide quality support to some of the most marginalized people in Cape Town and improve their future prospects.",
+        "image":"",
+        "date":" 20-01-22",
+        "place":" Railway station, Chittagong"
+    },
+    {
+        "title":"Women and Children Righ",
+        "description":"The Human Rights program includes working with Tanzanian human rights professionals focusing on Children, Women, and Disabled rights",
+        "image":"",
+        "date":" 23-01-22",
+        "place":" City gate, Chittagong"
+    }
+]
