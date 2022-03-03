@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import useAuth from '../../../hooks/useAuth';
+import { useNavigate } from 'react-router-dom';
 
 const Login = () => {
     const { registerUser } = useAuth();
@@ -19,12 +20,12 @@ const Login = () => {
     const [pass2, setPass2] = useState('');
     const [type, setType] = useState('');
     // console.log(licence, profile, nid)
-
+    const navigate = useNavigate()
     const handleSubmit = (e) => {
         e.preventDefault();
         const formData = new FormData();
         if (pass1 === pass2) {
-            registerUser(email, pass1, name)
+            registerUser(email, pass1, name, navigate)
 
             formData.append('name', name);
             formData.append('email', email);
